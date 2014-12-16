@@ -1,10 +1,12 @@
 ## EmBars 2.x uniquely customizable next-generation range bar for NinjaTrader 7
 
+##### Last updated v2.4.0 r1119 2013-05-08 0200Z
+
 EmBars 2.x is the version-2 rewrite of the popular MomentumBars, created and released in February 2011 to the BMT Elite community.
 
-MomentumBars was later re-released with a free and open-source license (specifically, the GNU-GPL) on the www.coroin.com website in July 2012. 
+MomentumBars was later re-released with a free and open-source license (specifically, the GNU-GPL) on the coroin.com website in July 2012. 
 
-In June 2014, the project moved here to git.coroin.com and now makes available the VS project source files to encourage further development and collaboration.
+In December 2014, the project moved to git.coroin.com and makes available the VS project source files to encourage further development and collaboration.
 
 ### Quick Links
 
