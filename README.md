@@ -10,7 +10,7 @@ In December 2014, the project moved to git.coroin.com and makes available the VS
 
 ### Quick Links
 
-* [Download](https://git.coroin.com/coroin/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
+* [Download](https://git.coroin.com/coroin/embars/blob/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
 * Clone repo: https://git.coroin.com/coroin/embars.git
 
 ### Release Notes - Coroin EmBars 2.x
