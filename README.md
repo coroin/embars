@@ -109,9 +109,7 @@ In December 2014, the project moved to git.coroin.com and makes available the VS
 11. restart NinjaTrader after installation
 12. click File | New | Chart
 13. select EmBars as the Bar Type
-    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/coroin/embars/issues)
 14. open your previous workspace
-    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/coroin/embars/issues)
 15. you can switch back and close the debug workspace so it won't open in the background 
     if you made it this far with no errors, then it's time to celebrate :-)
 
