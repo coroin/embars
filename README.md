@@ -10,8 +10,8 @@ In December 2014, the project moved to git.coroin.com and makes available the VS
 
 ### Quick Links
 
-* [Download](https://git.coroin.com/ninja/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
-* Clone repo: https://git.coroin.com/ninja/embars.git
+* [Download](https://git.coroin.com/coroin/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
+* Clone repo: https://git.coroin.com/coroin/embars.git
 
 ### Release Notes - Coroin EmBars 2.x
 
@@ -109,9 +109,9 @@ In December 2014, the project moved to git.coroin.com and makes available the VS
 11. restart NinjaTrader after installation
 12. click File | New | Chart
 13. select EmBars as the Bar Type
-    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/ninja/embars/issues)
+    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/coroin/embars/issues)
 14. open your previous workspace
-    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/ninja/embars/issues)
+    * if you get errors at this point, please [contact us](https://coroin.com/contact) or [submit an issue](https://git.coroin.com/coroin/embars/issues)
 15. you can switch back and close the debug workspace so it won't open in the background 
     if you made it this far with no errors, then it's time to celebrate :-)
 
@@ -123,11 +123,3 @@ In December 2014, the project moved to git.coroin.com and makes available the VS
 #### LICENSE / TERMS AND CONDITIONS
 
 Please review the [license file](src/Docs/License.txt).
-
-#### TECHNICAL SUPPORT
-
-Please [submit an issue](https://git.coroin.com/ninja/embars/issues).
-
-Note: You must be logged in to gitlab to submit an issue. If you do not want to create an account, you may use the generic NinjaTrader User account:
-- user: ntuser
-- pass: ninjatrader
