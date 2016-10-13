@@ -12,7 +12,7 @@ In October 2016, the project moved to gitlab.com.
 
 ### Quick Links
 
-* [Download](https://gitlab.com/coroin-ninjatrader/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
+* [Download](https://gitlab.com/coroin-ninjatrader/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
 * Clone repo: https://gitlab.com/coroin-ninjatrader/embars.git
 
 ### Release Notes - Coroin EmBars 2.x
