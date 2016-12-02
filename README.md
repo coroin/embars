@@ -2,7 +2,7 @@
 
 ##### Last updated v2.4.0 r1119 2013-05-08 0200Z
 
-EmBars 2.x is the version-2 rewrite of the popular [MomentumBars](https://gitlab.com/coroin-ninjatrader/bundle), created and released in February 2011 to the [BMT](https://futures.io/) Elite community.
+EmBars 2.x is the version-2 rewrite of the popular [MomentumBars](https://gitlab.com/coroin-ninja/bundle), created and released in February 2011 to the [BMT](https://futures.io/) Elite community.
 
 MomentumBars was later re-released with a free and open-source license (specifically, the GNU-GPL) on the [coroin.com](https://coroin.com) website in July 2012. 
 
@@ -12,8 +12,8 @@ In October 2016, the project moved to gitlab.com.
 
 ### Quick Links
 
-* [Download](https://gitlab.com/coroin-ninjatrader/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
-* Clone repo: https://gitlab.com/coroin-ninjatrader/embars.git
+* [Download](https://gitlab.com/coroin-ninja/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
+* Clone repo: https://gitlab.com/coroin-ninja/embars.git
 
 ### Release Notes - Coroin EmBars 2.x
 
