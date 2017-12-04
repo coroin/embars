@@ -1,19 +1,15 @@
-## EmBars 2.x uniquely customizable next-generation range bar for NinjaTrader 7
+## EmBars 2.x - A uniquely customizable range bar for NinjaTrader 7
+
+*Note: This project is no longer maintained. There are no plans to migrate to NT8.*
 
 ##### Last updated v2.4.0 r1119 2013-05-08 0200Z
 
-EmBars 2.x is the version-2 rewrite of the popular [MomentumBars](https://gitlab.com/coroin-ninja/bundle), created and released in February 2011 to the [BMT](https://futures.io/) Elite community.
-
-MomentumBars was later re-released with a free and open-source license (specifically, the GNU-GPL) on the [coroin.com](https://coroin.com) website in July 2012. 
-
-In December 2014, the project moved to git.coroin.com and makes available the VS project source files to encourage further development and collaboration.
-
-In October 2016, the project moved to gitlab.com.
+EmBars 2.x is the version-2 rewrite of the popular [MomentumBars](https://github.com/coroin/momentumbars), created and released in February 2011 to the [BMT](https://futures.io/) Elite community and then re-released in 2012 with the GNU-GPL free and open-source license.
 
 ### Quick Links
 
-* [Download](https://gitlab.com/coroin-ninja/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
-* Clone repo: https://gitlab.com/coroin-ninja/embars.git
+* [Download](https://github.com/coroin/embars/raw/master/bin/EmBars_2.4.0.1119.zip) the latest NinjaTrader zip import.
+* Clone repo: https://github.com/coroin/embars.git
 
 ### Release Notes - Coroin EmBars 2.x
 
@@ -104,7 +100,7 @@ In October 2016, the project moved to gitlab.com.
     * if there is an entry for Coroin.EmBars.dll, click that row and press Delete
     * click OK
 8. compile the indicator by pressing F5
-    * if you get errors at this point, it's not related to EmBars; 
+    * if you get errors at this point, it's not related to EmBars;
     * fix that error(s) before proceeding with step 10
 9. shut down NinjaTrader
 10. follow INSTALLATION procedure above
@@ -112,7 +108,7 @@ In October 2016, the project moved to gitlab.com.
 12. click File | New | Chart
 13. select EmBars as the Bar Type
 14. open your previous workspace
-15. you can switch back and close the debug workspace so it won't open in the background 
+15. you can switch back and close the debug workspace so it won't open in the background
     if you made it this far with no errors, then it's time to celebrate :-)
 
 #### KNOWN ISSUES / LIMITATIONS
