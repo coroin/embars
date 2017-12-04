@@ -79,7 +79,7 @@ Note: Please follow steps for UNINSTALLATION / REMOVAL before proceeding with th
     * if there is an entry for Coroin.EmBars.dll, click that row and press Delete
     * click OK
 8) compile the indicator by pressing F5
-    * if you get errors at this point, it's not related to EmBars; 
+    * if you get errors at this point, it's not related to EmBars;
     * fix that error(s) before proceeding with step 10
 9) shut down NinjaTrader
 10) follow INSTALLATION procedure above
@@ -89,7 +89,7 @@ Note: Please follow steps for UNINSTALLATION / REMOVAL before proceeding with th
     * if you get errors at this point, please contact info@coroin.com
 14) open your previous workspace
     * if you get errors at this point, please contact info@coroin.com
-15) you can switch back and close the debug workspace so it won't open in the background 
+15) you can switch back and close the debug workspace so it won't open in the background
     if you made it this far with no errors, then it's time to celebrate :-)
 
 ======================================================================
@@ -152,4 +152,3 @@ v2.0.0 r939 @120921 2200Z
 
 ======================================================================
 http://coroin.com
-http://embars.com/license

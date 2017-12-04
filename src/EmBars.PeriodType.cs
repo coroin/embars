@@ -1,5 +1,4 @@
 ﻿//
-// $Id$
 // Copyright (C) 2011-2013, Coroin LLC <http://coroin.com>
 //
 // This file is part of EmBars.
